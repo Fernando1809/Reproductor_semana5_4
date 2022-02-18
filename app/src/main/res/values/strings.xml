@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Reproductor multimedia</string>
+    <string name="iniciar">play</string>
+    <string name="detener">stop</string>
+    <string name="repetir">repeat</string>
+    <string name="anterior">previus</string>
+    <string name="siguiente">next</string>
+
+    //sring del reproductor de video
+    <string name="titulo">reproductor de video</string>
+    <string name="bvolver">Volver</string>
+</resources>
